@@ -5,4 +5,4 @@ pipelines:
         type: Bash
         execution:
           onExecute:
-            - echo "Running test case A_TemplateSync_6731_001"
+            - echo "Running test case A_TemplateSync_6731_001 1"
